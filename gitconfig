@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jeanf.barbato@gmail.com
+	name = jean francois barbato
